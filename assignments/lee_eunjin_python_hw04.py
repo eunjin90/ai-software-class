@@ -131,3 +131,5 @@ for i in range(1, num+1):
         print(i)
     else:
         print(clap)
+
+# exam11.jpynp파일에 교수님풀이
